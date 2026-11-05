@@ -1,3 +1,8 @@
+> **foxnaim** · GitHub Action для публикации пакетов в репозиторий AUR дистрибутива Arch Linux
+>
+> Готовая основа под клиентский проект. Стек: Shell.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # Publish AUR package
 
 GitHub Actions to publish AUR package.
